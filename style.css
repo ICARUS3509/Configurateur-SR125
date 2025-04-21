@@ -13,15 +13,10 @@ h1 {
   padding: 20px;
 }
 .configurateur {
-  position: relative;
-  width: 800px;
   margin: 40px auto;
-  height: auto;
+  max-width: 1000px;
 }
 .configurateur img {
-  position: absolute;
   width: 100%;
   height: auto;
-  top: 0;
-  left: 0;
 }
